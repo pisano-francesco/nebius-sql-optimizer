@@ -37,5 +37,5 @@ Powered by **NVIDIA Nemotron-3.5-Lightning** via **Nebius Token Factory**.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/pisano-francesco/nebius-sql-optimizer.git](https://github.com/pisano-francesco/nebius-sql-optimizer.git)
+git clone https://github.com/pisano-francesco/nebius-sql-optimizer.git
 cd nebius-sql-optimizer
